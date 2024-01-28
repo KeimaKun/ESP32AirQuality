@@ -9,8 +9,11 @@ Wiring diagram สามารถดูได้จาก ref [1] โดยไ�
 
 การเชื่อมต่อ ESP32 กับ AWS รวมทั้ง DynamoDB สามารถศึกษาได้จาก ref [2][3]
 
+งานวิจัยที่เกี่ยวข้องกับการใช้ Gas Sensor เพื่อตรวจจับกลิ่นขยะ [4][5]
+
 
 # References
+
 [1] ESP32 Gas Sensor
 https://esp32io.com/tutorials/esp32-gas-sensor
 
@@ -19,3 +22,9 @@ https://visitwnk.medium.com/ep-1-%E0%B9%80%E0%B8%8A%E0%B8%B7%E0%B9%88%E0%B8%AD%E
 
 [3] มาเล่น AWS IoT กันเถอะ EP.3 Rule engine & Rule action
 https://iamteam.me/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%99-aws-iot-%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B9%80%E0%B8%96%E0%B8%AD%E0%B8%B0-ep-3-rule-engine-rule-action-db583213f84d
+
+[4] Measurements of Flammable Gas Concentration in Landfill Areas with a Low-Cost Sensor
+https://www.researchgate.net/publication/352928234_Measurements_of_Flammable_Gas_Concentration_in_Landfill_Areas_with_a_Low-Cost_Sensor
+
+[5] A Sensor-based Garbage Gas Detection System
+https://www.researchgate.net/publication/349225577_A_Sensor-based_Garbage_Gas_Detection_System
